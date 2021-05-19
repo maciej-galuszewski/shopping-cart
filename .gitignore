@@ -1,0 +1,9 @@
+# IntelliJ IDEA project configuration
+.idea/
+*.iml
+
+# Java build files
+target/
+
+# Do not commit database
+h2.mv.db

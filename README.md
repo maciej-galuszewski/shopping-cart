@@ -94,6 +94,3 @@ Total sum: 650.00
 ```
 
 In the project root there is a Postman collection (`Shopping cart.postman_collection.json`) which contains sample requests.
-
-## Author
-Maciej Gałuszewski ([maciej.galuszewski@gmail.com](mailto:maciej.galuszewski@gmail.com))
